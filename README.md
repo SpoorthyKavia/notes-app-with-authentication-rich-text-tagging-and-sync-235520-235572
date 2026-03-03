@@ -1,1 +1,3 @@
-# notes-app-with-authentication-rich-text-tagging-and-sync-235520-235572
+# Project Repository
+
+This is the initial README file for the project.
